@@ -1,12 +1,12 @@
 body {
-  background-color: lightblue;
+  background-color: #00E3FA;
 font-family: "Lucida Handwriting", cursive;
 }
 p {
 font-size: 15;
 }
 .nav {
-  background-color: #04abc9; 
+  background-color: #FA0000; 
   list-style-type: none;
   text-align: center;
   margin: 0;
